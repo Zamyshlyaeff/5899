@@ -1,0 +1,15 @@
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\bin\Debug\net6.0\68.exe
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\bin\Debug\net6.0\68.deps.json
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\bin\Debug\net6.0\68.runtimeconfig.json
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\bin\Debug\net6.0\68.dll
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\bin\Debug\net6.0\68.pdb
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.csproj.AssemblyReference.cache
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.AssemblyInfoInputs.cache
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.AssemblyInfo.cs
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.csproj.CoreCompileInputs.cache
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.dll
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\refint\68.dll
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.pdb
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\68.genruntimeconfig.cache
+C:\Users\zans5\OneDrive\Рабочий стол\C#DZ6\68\obj\Debug\net6.0\ref\68.dll
